@@ -1,0 +1,181 @@
+variable Leader     0 1
+
+variable Follower01  0 1
+variable Follower02  0 1
+variable Follower03  0 1
+variable Follower04  0 1
+variable Follower05  0 1
+variable Follower06  0 1
+variable Follower07  0 1
+variable Follower08  0 1
+variable Follower09  0 1
+variable Follower10  0 1
+variable Follower11  0 1
+variable Follower12  0 1
+variable Follower13  0 1
+variable Follower14  0 1
+variable Follower15  0 1
+variable Follower16  0 1
+variable Follower17  0 1
+variable Follower18  0 1
+variable Follower19  0 1
+variable Follower20  0 1
+variable Follower21  0 1
+variable Follower22  0 1
+variable Follower23  0 1
+variable Follower24  0 1
+variable Follower25  0 1
+variable Follower26  0 1
+variable Follower27  0 1
+variable Follower28  0 1
+variable Follower29  0 1
+variable Follower30  0 1
+variable Follower31  0 1
+variable Follower32  0 1
+variable Follower33  0 1
+variable Follower34  0 1
+variable Follower35  0 1
+
+probability Leader
+  0.5  0.5
+
+probability Follower01 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower02 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower03 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower04 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower05 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower06 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower07 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower08 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower09 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower10 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower11 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower12 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower13 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower14 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower15 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower16 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower17 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower18 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower19 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower20 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower21 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower22 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower23 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower24 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower25 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower26 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower27 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower28 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower29 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower30 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower31 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower32 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower33 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower34 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower35 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+

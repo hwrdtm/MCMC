@@ -1,0 +1,31 @@
+variable Leader    0 1
+
+variable Follower1  0 1
+variable Follower2  0 1
+variable Follower3  0 1
+variable Follower4  0 1
+variable Follower5  0 1
+
+probability Leader
+  0.5  0.5
+
+probability Follower1 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower2 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower3 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower4 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
+probability Follower5 | Leader
+  0  0.900  0.100
+  1  0.100  0.900
+
