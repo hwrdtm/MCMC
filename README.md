@@ -90,10 +90,13 @@ Once MCMC has been implemented, RunMCMC simply runs MCMC for some number of roun
 > java RunMcmc alarm.bn alarm1.qry 100 20
 
 > 20 0.85000000 0.15000000
- 40 0.47500000 0.52500000
- 60 0.31666667 0.68333333
- 80 0.37500000 0.62500000
-100 0.37000000 0.63000000
->
+
+> 40 0.47500000 0.52500000
+
+> 60 0.31666667 0.68333333
+
+> 80 0.37500000 0.62500000
+
+> 100 0.37000000 0.63000000
 
 The command-line arguments are:  name of the file describing the Bayes net; name of the file describing the query; maximum number of iterations; frequency with which results should be printed.  Here, the specified Bayes net and query correspond to the example files given above.  The first line of the output means that, after 20 iterations, the estimated probability that Burglary equals t or f is 0.85 or 0.15, respectively.  Similarly for the lines that follow.
